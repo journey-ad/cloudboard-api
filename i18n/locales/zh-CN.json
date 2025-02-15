@@ -1,0 +1,26 @@
+{
+  "Site": {
+    "title": "CloudBoard"
+  },
+  "Index": {
+    "title": "CloudBoard",
+    "subtitle": "开源的 Windows 和 iOS 剪贴板同步工具，支持端到端加密",
+    "usage": {
+      "how_to_use": "如何使用",
+      "download_latest_version": "前往<link>发布页面</link>，下载并运行 Cloudboard",
+      "fill_in_api_endpoint": "填写接口地址，并生成 <b>API Key</b>，对应快捷指令的 <code>api_key</code> 参数",
+      "fill_in_e2e_encryption": "填写端到端加密密码，对应快捷指令的 <code>password</code> 参数",
+      "install_scriptable": "在iOS设备上安装<link>Scriptable</link>。",
+      "import_encrypt_helper": "下载端到端加解密脚本<link>CloudboardEncryptHelper.js</link>，并导入到 Scriptable",
+      "install_shortcut": "安装快捷指令",
+      "get_clipboard": "获取剪贴板",
+      "send_clipboard": "发送剪贴板",
+      "configure_shortcut": "快捷指令配置 <code>api_key</code> / <code>password</code> 参数，确保和 Windows 端一致，并检查加解密功能是否已关联到 Scriptable",
+      "enjoy_it": "现在 Windows 端的剪贴板将自动同步至云端，iOS 端使用快捷指令进行同步"
+    },
+    "buttons": {
+      "download_now": "立即下载",
+      "source_code": "前往 Github"
+    }
+  }
+}

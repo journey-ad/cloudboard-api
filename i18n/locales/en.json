@@ -1,0 +1,26 @@
+{
+  "Site": {
+    "title": "CloudBoard"
+  },
+  "Index": {
+    "title": "CloudBoard",
+    "subtitle": "Open source Windows & iOS clipboard synchronization tool, supports end-to-end encryption",
+    "usage": {
+      "how_to_use": "How to use",
+      "download_latest_version": "Go to the <link>release page</link>, download and run Cloudboard.",
+      "fill_in_api_endpoint": "Fill in the <b>API Endpoint</b>, and generate an <b>API Key</b>, corresponding to the <code>api_key</code> parameter of the shortcut.",
+      "fill_in_e2e_encryption": "Fill in the <b>End-to-End Encryption</b>, corresponding to the <code>password</code> parameter of the shortcut.",
+      "install_scriptable": "Install <link>Scriptable</link> on the iOS device.",
+      "import_encrypt_helper": "Download the <link>CloudboardEncryptHelper.js</link> script, and import it into Scriptable.",
+      "install_shortcut": "Install the shortcut",
+      "get_clipboard": "Get clipboard",
+      "send_clipboard": "Send clipboard",
+      "configure_shortcut": "Configure the <code>api_key</code> and <code>password</code> parameters of the shortcut, ensuring consistency with the Windows, and checking if the encryption function has been associated with Scriptable.",
+      "enjoy_it": "Now the clipboard on the Windows will be automatically synchronized to cloud, and iOS uses the shortcut to synchronize."
+    },
+    "buttons": {
+      "download_now": "Download now",
+      "source_code": "Source code"
+    }
+  }
+}
